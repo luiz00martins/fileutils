@@ -5,7 +5,7 @@
 	website = "https://github.com/PentagonLP/fileutils/",
 	newestversion = "1.0",
 	install = {
-		url = "https://raw.githubusercontent.com/PentagonLP/fileutils/main/fileutils",
+		url = "https://raw.githubusercontent.com/PentagonLP/fileutils/main/fileutils.lua",
 		filename = "fileutils",
 		type = "library",
 	},
